@@ -1,7 +1,7 @@
 [user]
 	email = cherrera@opennebula.systems
 	name = Carlos Herrera
-	signingkey = 4AEE18F83AFDEB23
+	signingkey = E73F29DBD6B2B6F1
 [alias]
 	st = status
 	co = checkout
